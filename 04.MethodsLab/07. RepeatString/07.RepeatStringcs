@@ -1,0 +1,15 @@
+﻿string input = Console.ReadLine();
+int count = int.Parse(Console.ReadLine());
+
+string result = RepeatString(input, count);
+Console.WriteLine(result);
+
+string RepeatString(string input, int count)
+{
+    string result = "";
+    for (int i = 0; i < count; i++)
+    {
+        result += input;
+    }
+    return result;
+}

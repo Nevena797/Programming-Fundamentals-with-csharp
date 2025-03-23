@@ -1,0 +1,14 @@
+C:\Users\neven\source\repos\01. FundamentalsMethods\09.GreaterOfTwoValues1\bin\Debug\net8.0\09.GreaterOfTwoValues1.exe
+C:\Users\neven\source\repos\01. FundamentalsMethods\09.GreaterOfTwoValues1\bin\Debug\net8.0\09.GreaterOfTwoValues1.deps.json
+C:\Users\neven\source\repos\01. FundamentalsMethods\09.GreaterOfTwoValues1\bin\Debug\net8.0\09.GreaterOfTwoValues1.runtimeconfig.json
+C:\Users\neven\source\repos\01. FundamentalsMethods\09.GreaterOfTwoValues1\bin\Debug\net8.0\09.GreaterOfTwoValues1.dll
+C:\Users\neven\source\repos\01. FundamentalsMethods\09.GreaterOfTwoValues1\bin\Debug\net8.0\09.GreaterOfTwoValues1.pdb
+C:\Users\neven\source\repos\01. FundamentalsMethods\09.GreaterOfTwoValues1\obj\Debug\net8.0\09.GreaterOfTwoValues1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neven\source\repos\01. FundamentalsMethods\09.GreaterOfTwoValues1\obj\Debug\net8.0\09.GreaterOfTwoValues1.AssemblyInfoInputs.cache
+C:\Users\neven\source\repos\01. FundamentalsMethods\09.GreaterOfTwoValues1\obj\Debug\net8.0\09.GreaterOfTwoValues1.AssemblyInfo.cs
+C:\Users\neven\source\repos\01. FundamentalsMethods\09.GreaterOfTwoValues1\obj\Debug\net8.0\09.GreaterOfTwoValues1.csproj.CoreCompileInputs.cache
+C:\Users\neven\source\repos\01. FundamentalsMethods\09.GreaterOfTwoValues1\obj\Debug\net8.0\09.GreaterOfTwoValues1.dll
+C:\Users\neven\source\repos\01. FundamentalsMethods\09.GreaterOfTwoValues1\obj\Debug\net8.0\refint\09.GreaterOfTwoValues1.dll
+C:\Users\neven\source\repos\01. FundamentalsMethods\09.GreaterOfTwoValues1\obj\Debug\net8.0\09.GreaterOfTwoValues1.pdb
+C:\Users\neven\source\repos\01. FundamentalsMethods\09.GreaterOfTwoValues1\obj\Debug\net8.0\09.GreaterOfTwoValues1.genruntimeconfig.cache
+C:\Users\neven\source\repos\01. FundamentalsMethods\09.GreaterOfTwoValues1\obj\Debug\net8.0\ref\09.GreaterOfTwoValues1.dll

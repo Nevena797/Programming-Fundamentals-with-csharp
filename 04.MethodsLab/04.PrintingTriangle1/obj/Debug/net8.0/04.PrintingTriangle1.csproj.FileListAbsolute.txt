@@ -1,0 +1,14 @@
+C:\Users\neven\source\repos\01. FundamentalsMethods\04.PrintingTriangle1\obj\Debug\net8.0\04.PrintingTriangle1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neven\source\repos\01. FundamentalsMethods\04.PrintingTriangle1\obj\Debug\net8.0\04.PrintingTriangle1.AssemblyInfoInputs.cache
+C:\Users\neven\source\repos\01. FundamentalsMethods\04.PrintingTriangle1\obj\Debug\net8.0\04.PrintingTriangle1.AssemblyInfo.cs
+C:\Users\neven\source\repos\01. FundamentalsMethods\04.PrintingTriangle1\obj\Debug\net8.0\04.PrintingTriangle1.csproj.CoreCompileInputs.cache
+C:\Users\neven\source\repos\01. FundamentalsMethods\04.PrintingTriangle1\bin\Debug\net8.0\04.PrintingTriangle1.exe
+C:\Users\neven\source\repos\01. FundamentalsMethods\04.PrintingTriangle1\bin\Debug\net8.0\04.PrintingTriangle1.deps.json
+C:\Users\neven\source\repos\01. FundamentalsMethods\04.PrintingTriangle1\bin\Debug\net8.0\04.PrintingTriangle1.runtimeconfig.json
+C:\Users\neven\source\repos\01. FundamentalsMethods\04.PrintingTriangle1\bin\Debug\net8.0\04.PrintingTriangle1.dll
+C:\Users\neven\source\repos\01. FundamentalsMethods\04.PrintingTriangle1\bin\Debug\net8.0\04.PrintingTriangle1.pdb
+C:\Users\neven\source\repos\01. FundamentalsMethods\04.PrintingTriangle1\obj\Debug\net8.0\04.PrintingTriangle1.dll
+C:\Users\neven\source\repos\01. FundamentalsMethods\04.PrintingTriangle1\obj\Debug\net8.0\refint\04.PrintingTriangle1.dll
+C:\Users\neven\source\repos\01. FundamentalsMethods\04.PrintingTriangle1\obj\Debug\net8.0\04.PrintingTriangle1.pdb
+C:\Users\neven\source\repos\01. FundamentalsMethods\04.PrintingTriangle1\obj\Debug\net8.0\04.PrintingTriangle1.genruntimeconfig.cache
+C:\Users\neven\source\repos\01. FundamentalsMethods\04.PrintingTriangle1\obj\Debug\net8.0\ref\04.PrintingTriangle1.dll
