@@ -1,10 +1,32 @@
-﻿namespace _06.StrongNumber1
+using System;
+
+class Program
 {
-    internal class Program
+    static void Main()
     {
-        static void Main(string[] args)
+        string number = Console.ReadLine();
+        int sum = 0;
+
+        foreach (char digitChar in number)
         {
-            Console.WriteLine("Hello, World!");
+            int digit = digitChar - '0'; 
+            int factorial = 1;
+
+            for (int i = 1; i <= digit; i++)
+            {
+                factorial *= i;
+            }
+
+            sum += factorial;
+        }
+
+        if (sum == int.Parse(number))
+        {
+            Console.WriteLine("yes");
+        }
+        else
+        {
+            Console.WriteLine("no");
         }
     }
 }
