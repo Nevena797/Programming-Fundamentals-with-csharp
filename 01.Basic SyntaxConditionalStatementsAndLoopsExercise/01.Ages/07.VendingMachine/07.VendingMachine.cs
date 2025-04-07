@@ -1,12 +1,9 @@
-﻿using System;
-
-class Program
+﻿class Program
 {
     static void Main()
     {
         string command;
         double change = 0;
-
 
         while ((command = Console.ReadLine()) != "Start")
         {
