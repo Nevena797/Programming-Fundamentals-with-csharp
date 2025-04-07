@@ -7,7 +7,7 @@ class Program
         string command;
         double change = 0;
 
-        // Първи цикъл: събиране на монети
+
         while ((command = Console.ReadLine()) != "Start")
         {
             double coin = double.Parse(command);
@@ -26,7 +26,7 @@ class Program
             }
         }
 
-        // Цени на продуктите
+
         double nutsPrice = 2.0;
         double waterPrice = 0.7;
         double crispsPrice = 1.5;
@@ -35,7 +35,7 @@ class Program
 
         string input;
 
-        // Втори цикъл: пазаруване
+
         while ((input = Console.ReadLine()) != "End")
         {
             switch (input)
