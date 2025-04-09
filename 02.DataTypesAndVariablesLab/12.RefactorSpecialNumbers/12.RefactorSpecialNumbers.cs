@@ -1,26 +1,27 @@
-﻿namespace _12.RefactorSpecialNumbers
+using System;
+
+namespace _12.RefactorSpecialNumbers;
+
+internal class Program
 {
-    internal class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
+        int counter = int.Parse(Console.ReadLine());
+
+        for (int number = 1; number <= counter; number++)
         {
-            int kolkko = int.Parse(Console.ReadLine());
-            int obshto = 0;
-            int takova = 0;
-            bool isSpecialNum = false;
-            for (int ch = 1; ch <= kolkko; ch++)
+            int sum = 0;
+            int digits = number;
+
+            while (digits > 0)
             {
-                takova = ch;
-                while (ch > 0)
-                {
-                    obshto += ch % 10;
-                    ch = ch / 10;
-                }
-                isSpecialNum = (obshto == 5) || (obshto == 7) || (obshto == 11);
-                Console.WriteLine("{0} -> {1}", takova, isSpecialNum);
-                obshto = 0;
-                ch = takova;
+                sum += digits % 10;
+                digits /= 10;
             }
+
+            bool isSpecialNumber = (sum == 5) || (sum == 7) || (sum == 11);
+
+            Console.WriteLine($"{number} -> {isSpecialNumber}");
         }
     }
 }
