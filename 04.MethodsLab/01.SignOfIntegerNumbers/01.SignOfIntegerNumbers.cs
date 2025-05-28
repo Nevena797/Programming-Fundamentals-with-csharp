@@ -1,17 +1,28 @@
-﻿void PrintNumberSign(int number)
+﻿namespace _01.SignOfIntegerNumbers
 {
-    if (number > 0)
+    internal class Program
     {
-        Console.WriteLine($"The number {number} is positive.");
-    }
-    else if (number < 0)
-    {
-        Console.WriteLine($"The number {number} is negative.");
-    }
-    else
-    {
-        Console.WriteLine($"The number {number} is zero. ");
+        static void Main(string[] args)
+
+        {
+            int number = int.Parse(Console.ReadLine());
+            IntegerNumbers(number);
+
+            static void IntegerNumbers(int number)
+            {
+                if (number == 0)
+                {
+                    Console.WriteLine($"The number {number} is zero.");
+                }
+                else if (number > 0)
+                {
+                    Console.WriteLine($"The number {number} is positive.");
+                }
+                else
+                {
+                    Console.WriteLine($"The number {number} is negative.");
+                }
+            }
+        }
     }
 }
-
-PrintNumberSign(int.Parse(Console.ReadLine()));
